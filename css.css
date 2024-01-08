@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    
+    
+  }
+  
+  .box{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    
+    width: 250px;
+    height: 100px;
+    margin: 10px;
+    
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
